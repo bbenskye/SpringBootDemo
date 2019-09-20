@@ -11,11 +11,11 @@ public class DemoController {
         return "<html>\n" +
                 "<head>\n" +
                 "<meta charset=\"UTF-8\">\n" +
-                "<title>超哥的Spring</title>\n" +
+                "<title>五羖大夫</title>\n" +
                 "</head>\n" +
                 "\n" +
 //                "<hr />\n" +
-                "<strong>肖明亮最帅！</strong><br />" +
+                "<strong></strong><br />" +
                 "";
     }
 
